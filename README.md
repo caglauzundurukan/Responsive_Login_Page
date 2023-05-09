@@ -3,7 +3,7 @@
 <br>
 Languages and technologies used in the project:
 <br> <br>
-Written using HTML, CSS and Bootstrap.
+Written using HTML, CSS and Vanilla JS.
 <br> <br>
 Screenshot of the project:
 <br> <br>
